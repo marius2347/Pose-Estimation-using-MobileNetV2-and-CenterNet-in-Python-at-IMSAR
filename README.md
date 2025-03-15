@@ -1,4 +1,4 @@
-<h1> Pose Estimation - IMSAR PROJECT</h1>
+<h1>Pose Estimation using MobileNetV2 and CenterNet in Python at IMSAR</h1>
 <br>
 <h2>Features</h2>
 <ul>
